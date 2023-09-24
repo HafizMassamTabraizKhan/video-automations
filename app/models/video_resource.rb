@@ -1,0 +1,2 @@
+class VideoResource < ApplicationRecord
+end

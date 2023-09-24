@@ -1,0 +1,2 @@
+class VideoPresenter < ApplicationRecord
+end
